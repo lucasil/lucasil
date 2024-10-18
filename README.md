@@ -9,13 +9,13 @@
 
 - 🌱 Atualmente estou estudando Spring Framework
 - 👯 Procuro colaborar com projetos de programação
-- 😄 Pronouns: ele/dele
 
 ## Ferramentas e Tecnologias
 <div style = "display: inline_block">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "50" heith = "50" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "50" heith = "50" /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "50" heith = "50" /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "50" heith = "50" />          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width = "50" heith = "50" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "50" heith = "50" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "50" heith = "50" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width = "50" heith = "50" />
@@ -24,7 +24,9 @@
 ## Aprendizado
 <div style = "display: inline_block">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width = "50" heith = "50" /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width = "50" heith = "50" /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width = "50" heith = "50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "50" heith = "50" />
+          
 </div>
 
 <br>
